@@ -10,19 +10,19 @@
 * Nee Buntoum
 * Yeongjin Nam
 
-<img src="ESA_logo_2020_Deep-1024x643 copy.jpg" 
+<img src="images/ESA_logo_2020_Deep-1024x643 copy.jpgESA_logo_2020_Deep-1024x643 copy.jpg" 
         alt="esa_logo" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
 
-<img src="PSMSL copy.jpg" 
+<img src="images/PSMSL copy.jpg" 
         alt="psmsl_logo" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
 
-<img src="Facebook-Prophet-A-Simple-Algorithm-for-Time-Series-Data copy.jpg" 
+<img src="images/Facebook-Prophet-A-Simple-Algorithm-for-Time-Series-Data copy.jpg" 
         alt="pro_logo" 
         width="250" 
         height="150" 
@@ -67,20 +67,27 @@ Missing data is denoted by -9999 and was cleaned.
 1. Clone this repository to your local machine.
 2. Download the data from the PSMSL.org website. Go to Home page:
    
-   <img src="PSMSs_ss.jpg" 
+   <img src="images/PSMSs_ss.jpg" 
         alt="PSMS_ss01" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
 3. Click on "Data" link, then“Obtaining Tide Gauge Data:” link.
-    <img src="Screenshot 2024-02-08 at 8.58.00 PM copy.jpg" 
+
+    <img src="images/Screenshot 2024-02-08 at 8.58.00 PM copy.jpg" 
         alt="PSMS_ss02" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
 4. Select the Station Name or Station ID.
+   
+   <img src="images/stationID_link.jpg" 
+        alt="PSMS_ss02" 
+        width="250" 
+        height="150" 
+        style="display: block; margin: 0 auto; align: center;" />
 Click on the Station ID link.
-1. Look at “Time span of data:” and “Completeness (%)” to see if the data is of 
+5. Look at “Time span of data:” and “Completeness (%)” to see if the data is of 
 interest.
 If yes, click on “Download monthly mean sea level data.” hyperlink located to
 the right of the sea level graph.
@@ -93,10 +100,23 @@ You should see data that looks something like this: yyyy.mmmm; nnnn;
 yyyy = year. mmmm is a decimal format for month: mmmm=(M−0.5)/12
 With M = the integer for the month. For example, April = 04.
 nnnn is millimeters above the reference (which was set at -7000 mm in 1970)
-1. The rlrdata looks like this:
-2. Copy and paste the data into an Excel spreadsheet. Save as 
+7. The rlrdata looks like this:
+   
+   <img src="images/rlrdata.jpg" 
+        alt="PSMS_ss02" 
+        width="250" 
+        height="150" 
+        style="display: block; margin: 0 auto; align: center;" />
+8. Copy and paste the data into an Excel spreadsheet. Save as 
 “Wilmington.csv” file.
-1. Add the Wilmington.csv file to the Resource folder.
+
+<img src="images/Wilmingtondotcsv.jpg" 
+        alt="PSMS_ss02" 
+        width="250" 
+        height="150" 
+        style="display: block; margin: 0 auto; align: center;" />
+
+9. Add the Wilmington.csv file to the Resource folder.
 Do the same for the second city, and the third, and so on.
 Just before running the program, change the csv file name to city1.csv and 
 city2.csv. 
