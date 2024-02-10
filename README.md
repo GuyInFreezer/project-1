@@ -39,7 +39,7 @@
 2. Download the data from the PSMSL.org website. Go to Home page:
 
    <img src="images/psmsl_home.jpg"
-        alt="PSMS logo" 
+        alt="PSMS home" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
@@ -53,7 +53,7 @@
 4. Select the Station Name or Station ID. Click on the Station ID link.
 
    <img src="images/stationID_link.jpg" 
-        alt="PSMS_ss02" 
+        alt="station id" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
@@ -68,14 +68,14 @@ With M = the integer for the month. For example, April = 04. nnnn is millimeters
 6. The rlrdata looks like this:
 
    <img src="images/rlrdata.jpg" 
-        alt="PSMS_ss02" 
+        alt="rlr data" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
 7. Copy and paste the data into an Excel spreadsheet. Save as “Wilmington.csv” file.
 
    <img src="images/Wilmingtondotcsv.jpg"
-        alt="PSMS_ss02" 
+        alt="wilmington" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
