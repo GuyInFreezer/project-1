@@ -11,34 +11,8 @@
 * Mathew Nicholas
 * Nee Buntoum
 * Yeongjin Nam
-
-
-https://github.com/GuyInFreezer/project-1/assets/101156624/e750f254-6994-43db-a607-535eb0ad8911
-
-
-<img src="images/NASA_logo copy.png"
-        alt="nasa_logo" 
-        width="250" 
-        height="150" 
-        style="display: block; margin: 0 auto; align: center;" />
-
-<img src="images/ESA_logo_2020_Deep-1024x643 copy.jpg"
-        alt="esa_logo" 
-        width="250" 
-        height="150" 
-        style="display: block; margin: 0 auto; align: center;" />
-
-<img src="images/PSMSL copy.jpg"
-        alt="psmsl_logo" 
-        width="250" 
-        height="150" 
-        style="display: block; margin: 0 auto; align: center;" />
-
-<img src="images/Facebook-Prophet-A-Simple-Algorithm-for-Time-Series-Data copy.jpg" 
-        alt="pro_logo" 
-        width="250" 
-        height="150" 
-        style="display: block; margin: 0 auto; align: center;" />
+  
+  https://github.com/GuyInFreezer/project-1/assets/101156624/e750f254-6994-43db-a607-535eb0ad8911
 
 ## Overview
 
@@ -76,14 +50,14 @@ https://github.com/GuyInFreezer/project-1/assets/101156624/e750f254-6994-43db-a6
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
-4. Select the Station Name or Station ID.
+4. Select the Station Name or Station ID. Click on the Station ID link.
 
    <img src="images/stationID_link.jpg" 
         alt="PSMS_ss02" 
         width="250" 
         height="150" 
         style="display: block; margin: 0 auto; align: center;" />
-Click on the Station ID link.
+
 5. Look at “Time span of data:” and “Completeness (%)” to see if the data is of interest. If yes, click on “Download monthly mean sea level data.” hyperlink located to
 the right of the sea level graph.
 The data will download. Make sure Xcode is available on your computer.
@@ -116,3 +90,5 @@ temps from the https:// hyperlink
 test_df is the new dataframe – index, ds (datetime), y (y-axis)
 combined_df – inner merge of new_df file and test_df on datetime plot sea level for city1 vs Temperature rise.
 Do a correlation. Upload city2 so that we can compare the 2 cities. cities_df – merge new_df and city_2_df on ds(datetime). Plot the sea level rise for the 2 cities on different y-axes and datetime on the x-axis. Check the correlation.
+
+
