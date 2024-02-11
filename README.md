@@ -91,4 +91,7 @@ test_df is the new dataframe – index, ds (datetime), y (y-axis)
 combined_df – inner merge of new_df file and test_df on datetime plot sea level for city1 vs Temperature rise.
 Do a correlation. Upload city2 so that we can compare the 2 cities. cities_df – merge new_df and city_2_df on ds(datetime). Plot the sea level rise for the 2 cities on different y-axes and datetime on the x-axis. Check the correlation.
 
+[README for Project1.pdf](https://github.com/GuyInFreezer/project-1/files/14230952/README.for.Project1.pdf)
+
+
 
