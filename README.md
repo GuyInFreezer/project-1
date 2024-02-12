@@ -12,11 +12,7 @@
 * Nee Buntoum
 * Yeongjin Nam
   
-
-https://github.com/GuyInFreezer/project-1/assets/101156624/9dbab4d4-eefc-41a5-a259-cd7e63757956
-
-
-  
+  https://github.com/GuyInFreezer/project-1/assets/101156624/9dbab4d4-eefc-41a5-a259-cd7e63757956
 
 ## Overview
 
@@ -98,3 +94,17 @@ Do a correlation. Upload city2 so that we can compare the 2 cities. cities_df â€
 Download README in pdf here:
 
 [README for Project1.pdf](https://github.com/GuyInFreezer/project-1/files/14230952/README.for.Project1.pdf)
+
+## Works Cited
+
+1. PSMSL Data 
+Permanent Service for Mean Sea Level (PSMSL). (n.d.). Data retrieved from PSMSL.org, Fortran IV datafile accessed via MatLab program in Xcode, manipulated and analyzed using Pandas in Python.
+
+2. NASA Northern Hemisphere Temperature Data NASA Goddard Institute for Space Studies. (n.d.). Northern Hemisphere Temperature Anomalies. Retrieved from https://data.giss.nasa.gov/gistemp/tabledata_v4/NH.Ts+dSST.csv
+
+3. Energy Units Basics,
+U.S. Energy Information Administration. (n.d.).  Energy Units Basics.
+Retrieved from: https://www.eia.gov/kids/what-is-energy/energy-units-basics.php
+
+4. Climate Change Indicators: Arctic Sea Ice 
+United States Environmental Protection Agency. (n.d.). Climate Change Indicators: Arctic Sea Ice. Retrieved from https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-sea-ice
