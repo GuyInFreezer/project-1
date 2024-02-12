@@ -12,7 +12,11 @@
 * Nee Buntoum
 * Yeongjin Nam
   
-  https://github.com/GuyInFreezer/project-1/assets/101156624/e750f254-6994-43db-a607-535eb0ad8911
+
+https://github.com/GuyInFreezer/project-1/assets/101156624/9dbab4d4-eefc-41a5-a259-cd7e63757956
+
+
+  
 
 ## Overview
 
