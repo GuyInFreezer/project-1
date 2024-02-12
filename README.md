@@ -16,22 +16,21 @@
 
 ## Overview
 
- This program provides a comparison of sea level rise between two cities. It visualizes historical sea level data, projects future trends, and highlights potential impacts on coastal communities.
+ This program provides a comparison of sea level rise between two cities. It offers detailed visualizations of historical sea level data. Additionally, it projects future trends based on various scenarios and highlights potential impacts on coastal communities, empowering users to make informed decisions regarding adaptation and mitigation strategies.
 
- This program was originally designed to help New Hanover County allocate funds to mediate the effect of sea level rise. All data is average monthly in the format yyyy-mm-01. All data is assumed to
- be on the 1st of the month. However, the program is written to compare any 2 locations in the world where sea level data is available. city1 = location 1. This sea level rise data is compared to northern hemisphere temperature. A correlation between sea level rise to northern hemisphere temperature rise
- city2 = location 2. The sea level rise from location 1 and location 2 are plotted, and a correlation is determined.
- The PSMSL.org data is used because, at some sites, sea level data is available for more than 80 years.Add information from the PDF article about PSMSL.org. Why are they considered a valid source? How much data is available? etc. Wilmington is such a site. Data is available since 1935. Only 17 data points is missing. The reference point was set in 1970 at -7000 mm. Thus, on that day, the mean sea level was +7000.Missing data is denoted by -9999 and was cleaned.
+ This program was originally designed to help New Hanover County allocate funds to mediate the effect of sea level rise. All data is average monthly in the format yyyy-mm-01. All data is assumed to be on the 1st of the month. However, the program is written to compare any 2 locations in the world where sea level data is available. city1 = location 1. This sea level rise data is compared to northern hemisphere temperature. A correlation between sea level rise to northern hemisphere temperature rise city2 = location 2. The sea level rise from location 1 and location 2 are plotted, and a correlation is determined.The PSMSL.org data is used because, at some sites, sea level data is available for more than 80 years. The data utilized in this program is sourced from PSMSL.org, a reputable organization known for providing comprehensive and reliable sea level data. PSMSL.org is recognize at numerous coastal sites worldwide. The organization's commitment to data integrity and accuracy makes it a trusted source for scientific research and policy-making.
+
+ Wilmington is among the sites monitored by PSMSL.org, with sea level data available since 1935.  Remarkably, only 17 data points are missing from this extensive dataset, ensuring a robust analysis of sea level trends in the region. The reference point established in 1970, set at -7000 mm, serves as a valuable baseline for understanding mean sea level variations over time. Missing data points, denoted by -9999, have been systematically cleaned to maintain the integrity of the analysis.
 
 ## Features
 
-* Data Visualization: Utilizes interactive graphs and maps to illustrate sea level rise trends over time.
+* Data Visualization: Harnesses the power of dynamic graphs and interactive maps to visually depict the evolving trends of sea level rise across temporal dimensions.
   
-* City Comparison: Allows users to compare sea level rise between two selected cities.
+* City Comparison: Empowers users to juxtapose sea level rise data between two designated urban centers, fostering insightful comparisons and informed decision-making.
   
-* Future Projections: Provides projections of future sea level rise based on climate change models.
+* Future Projections: Offers foresight into prospective sea level rise through the utilization of climate change models, enabling anticipation and preparedness for evolving environmental challenges.
   
-* Impact Assessment: Identifies areas at risk of flooding and potential impacts on infrastructure and communities.
+* Impact Assessment: Discerns vulnerable areas susceptible to flooding and evaluates potential repercussions on both infrastructure and communities, facilitating proactive measures for resilience and adaptation.
 
 ## Installation
 
@@ -108,9 +107,3 @@ Retrieved from: https://www.eia.gov/kids/what-is-energy/energy-units-basics.php
 
 4. Climate Change Indicators: Arctic Sea Ice 
 United States Environmental Protection Agency. (n.d.). Climate Change Indicators: Arctic Sea Ice. Retrieved from https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-sea-ice
-
-Download works cited in pdf here:
-
-[worksCited.pdf](https://github.com/GuyInFreezer/project-1/files/14234906/worksCited.pdf)
-
-
