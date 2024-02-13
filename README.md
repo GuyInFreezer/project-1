@@ -111,4 +111,3 @@ United States Environmental Protection Agency. (n.d.). Climate Change Indicators
 Download works cited in pdf here:
 
 [worksCited.pdf](https://github.com/GuyInFreezer/project-1/files/14234906/worksCited.pdf)
-
